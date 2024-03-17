@@ -1,2 +1,4 @@
 /*  your css code here. If applicable */
-.table=1px solid black;
+table{
+    border: 1px solid black;
+}
